@@ -2,5 +2,5 @@
 
 testing repository
 
-## Hello Git
-Hello, git world!
+## Hello Git!
+Hello, Git world!
