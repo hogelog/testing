@@ -3,4 +3,4 @@
 testing repository
 
 ## Hello Git!
-Hello, world!
+Hello, Git world!
